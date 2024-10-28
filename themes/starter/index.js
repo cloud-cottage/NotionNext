@@ -87,20 +87,21 @@ const LayoutIndex = props => {
       {siteConfig('STARTER_HERO_ENABLE') && <Hero />}
       {/* 合作伙伴 */}
       {siteConfig('STARTER_BRANDS_ENABLE') && <Brand />}
-      {/* 产品特性 */}
-      {siteConfig('STARTER_FEATURE_ENABLE') && <Features />}
-      {/* 关于 */}
-      {siteConfig('STARTER_ABOUT_ENABLE') && <About />}
-      {/* 价格 */}
-      {siteConfig('STARTER_PRICING_ENABLE') && <Pricing />}
-      {/* 评价展示 */}
-      {siteConfig('STARTER_TESTIMONIALS_ENABLE') && <Testimonials />}
       {/* 常见问题 */}
       {siteConfig('STARTER_FAQ_ENABLE') && <FAQ />}
+      {/* 关于 */}
+      {siteConfig('STARTER_ABOUT_ENABLE') && <About />}
+      {/* 产品特性 */}
+   // {siteConfig('STARTER_FEATURE_ENABLE') && <Features />}
+      {/* 价格 */}
+   // {siteConfig('STARTER_PRICING_ENABLE') && <Pricing />}
+      {/* 评价展示 */}
+      {siteConfig('STARTER_TESTIMONIALS_ENABLE') && <Testimonials />}
+
       {/* 团队介绍 */}
       {siteConfig('STARTER_TEAM_ENABLE') && <Team />}
       {/* 博文列表 */}
-      {siteConfig('STARTER_BLOG_ENABLE') && (
+   // {siteConfig('STARTER_BLOG_ENABLE') && (
         <>
           <Blog posts={posts} />
           <div className='container mx-auto flex justify-end mb-4'>
