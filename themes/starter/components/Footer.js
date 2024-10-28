@@ -129,7 +129,6 @@ export const Footer = props => {
                 <div className='my-1 flex justify-center md:justify-end'>
                   <p className='text-base text-gray-7'>
                     Proudly Powered by NotionNext {siteConfig('VERSION')}
-                    </a>
                   </p>
                 </div>
               </div>
