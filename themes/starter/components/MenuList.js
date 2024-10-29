@@ -13,6 +13,7 @@ export const MenuList = props => {
       icon: 'fas fa-book',
       name: 'Whitebook',
       href: 'https://docs.pixiu.us/',
+      target: '_blank',
       show: true
     },
     {
