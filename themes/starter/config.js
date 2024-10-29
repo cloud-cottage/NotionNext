@@ -177,9 +177,9 @@ const CONFIG = {
 
   //   FAQ 常见问题模块
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
-  STARTER_FAQ_TITLE: '常见问题解答',
+  STARTER_FAQ_TITLE: '',
   STARTER_FAQ_TEXT_1: 'Why Pixiu?',
-  STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
+  STARTER_FAQ_TEXT_2: '',
 
   STARTER_FAQ_1_QUESTION: 'Open',
   STARTER_FAQ_1_ANSWER:
@@ -191,7 +191,7 @@ const CONFIG = {
 
   STARTER_FAQ_3_QUESTION: 'Fair',
   STARTER_FAQ_3_ANSWER:
-    'Everyone get reward fairly通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    'Everyone get reward fairly, Gamified and farming-resistant reward mechanisms ensure the right people earn points and future token rewards for their contributions.',
 
   STARTER_FAQ_4_QUESTION: 'Pixiu-Eco',
   STARTER_FAQ_4_ANSWER:
