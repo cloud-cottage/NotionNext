@@ -8,31 +8,36 @@ import { MenuItem } from './MenuItem'
 export const MenuList = props => {
   const { customNav, customMenu } = props
   const { locale } = useGlobal()
-
   let links = [
+    {
+      icon: 'fas fa-archive',
+      name: locale.NAV.WHITEBOOK,
+      href: '/archive',
+      show: true
+    },
     {
       icon: 'fas fa-archive',
       name: locale.NAV.HONORS,
       href: '/archive',
-      show: siteConfig('HEO_MENU_ARCHIVE')
+      show: true
     },
     {
       icon: 'fas fa-search',
       name: locale.NAV.CONTRIBUTORS,
       href: '/search',
-      show: siteConfig('HEO_MENU_SEARCH')
+      show: true
     },
     {
       icon: 'fas fa-folder',
       name: locale.NAV.PIXIUAPIs,
       href: '/category',
-      show: siteConfig('HEO_MENU_CATEGORY')
+      show: true
     },
     {
       icon: 'fas fa-tag',
       name: locale.NAV.DOWNLOADS,
       href: '/downloads',
-      show: siteConfig('HEO_MENU_TAG')
+      show: true
     }
   ]
 
