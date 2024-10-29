@@ -10,31 +10,31 @@ export const MenuList = props => {
   const { locale } = useGlobal()
   let links = [
     {
-      icon: 'fas fa-archive',
+      icon: 'fas fa-book',
       name: 'Whitebook',
       href: 'https://docs.pixiu.us/',
       show: true
     },
     {
-      icon: 'fas fa-archive',
+      icon: 'fas fa-award',
       name: 'Honors',
       href: '/honor',
       show: true
     },
     {
-      icon: 'fas fa-members',
+      icon: 'fas fa-pencil-ruler',
       name: 'Contributors',
       href: '/contributor',
       show: true
     },
     {
-      icon: 'fas fa-folder',
+      icon: 'fas fa-file-code',
       name: 'Pixiu-APIs',
       href: '/api',
       show: true
     },
     {
-      icon: 'fas fa-tag',
+      icon: 'fas fa-download',
       name: 'Downloads',
       href: '/download',
       show: true
