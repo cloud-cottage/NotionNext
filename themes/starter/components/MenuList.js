@@ -12,26 +12,26 @@ export const MenuList = props => {
   let links = [
     {
       icon: 'fas fa-archive',
-      name: locale.NAV.ARCHIVE,
+      name: locale.NAV.HONORS,
       href: '/archive',
       show: siteConfig('HEO_MENU_ARCHIVE')
     },
     {
       icon: 'fas fa-search',
-      name: locale.NAV.SEARCH,
+      name: locale.NAV.CONTRIBUTORS,
       href: '/search',
       show: siteConfig('HEO_MENU_SEARCH')
     },
     {
       icon: 'fas fa-folder',
-      name: locale.COMMON.CATEGORY,
+      name: locale.NAV.PIXIUAPIs,
       href: '/category',
       show: siteConfig('HEO_MENU_CATEGORY')
     },
     {
       icon: 'fas fa-tag',
-      name: locale.COMMON.TAGS,
-      href: '/tag',
+      name: locale.NAV.DOWNLOADS,
+      href: '/downloads',
       show: siteConfig('HEO_MENU_TAG')
     }
   ]
