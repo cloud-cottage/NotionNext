@@ -13,12 +13,13 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: 'Next-gen Social Ecosystem', // 英雄区文字
   STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Just Start!', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Discord With Us', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    '/download', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
+    '/discord', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '/images/starter/install.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_TEXT: 'Try Now', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: '/download', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '/images/starter/install.svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
