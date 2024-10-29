@@ -11,32 +11,32 @@ export const MenuList = props => {
   let links = [
     {
       icon: 'fas fa-archive',
-      name: locale.NAV.WHITEBOOK,
-      href: '/archive',
+      name: 'Whitebook',
+      href: 'https://docs.pixiu.us/',
       show: true
     },
     {
       icon: 'fas fa-archive',
-      name: locale.NAV.HONORS,
-      href: '/archive',
+      name: 'Honors',
+      href: '/honor',
       show: true
     },
     {
-      icon: 'fas fa-search',
-      name: locale.NAV.CONTRIBUTORS,
-      href: '/search',
+      icon: 'fas fa-members',
+      name: 'Contributors',
+      href: '/contributor',
       show: true
     },
     {
       icon: 'fas fa-folder',
-      name: locale.NAV.PIXIUAPIs,
-      href: '/category',
+      name: 'Pixiu-APIs',
+      href: '/api',
       show: true
     },
     {
       icon: 'fas fa-tag',
-      name: locale.NAV.DOWNLOADS,
-      href: '/downloads',
+      name: 'Downloads',
+      href: '/download',
       show: true
     }
   ]
