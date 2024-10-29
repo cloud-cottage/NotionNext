@@ -207,17 +207,17 @@ const CONFIG = {
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-00.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://pbs.twimg.com/profile_images/1836178128760094720/y5dkR6uH_400x400.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Kevin Ji (0xCatKing)',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Founder'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://pbs.twimg.com/profile_images/1805441048728289283/D7EwpZFf_400x400.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Ada Ferner',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://pbs.twimg.com/profile_images/1760558873167958016/cWsZjDHx_400x400.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Jason Wang',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder'
     },
