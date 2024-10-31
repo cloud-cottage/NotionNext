@@ -11,13 +11,13 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Next-gen Social Ecosystem', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Connect Web3 Safely, Smoothly & Stably!', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Discord With Us', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Telegram Us!', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    '/discord', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/install.svg', // 英雄区按钮2的图标，不需要则留空
-  STARTER_HERO_BUTTON_2_TEXT: 'Try Now', // 英雄区按钮
+    'https://t.me/cloudclubchina', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_ICON: '/images/starter/install.svg', // 英雄区按钮1的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_TEXT: 'Get Started', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: '/download', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/install.svg', // 英雄区按钮2的图标，不需要则留空
 
@@ -34,8 +34,8 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: 'Features', // 特性
+  STARTER_FEATURE_TEXT_1: 'What We Can Do?', // 特性
   STARTER_FEATURE_TEXT_2:
     'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
 
@@ -62,16 +62,16 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'Take a peek at our Whitebook',
+  STARTER_ABOUT_TITLE: 'What We Will Be?',
   STARTER_ABOUT_TEXT:
-    'Learn more about the future plans, in-app economy and Pixiu’s vision for more ethical social media.',
+    'Learn more about the future plans, in-app economy and Pixiu’s vision for more ethical social media. Take a peek at our plan!',
   STARTER_ABOUT_BUTTON_TEXT: 'View Whitebook',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.pixiu.us/',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
   STARTER_ABOUT_TIPS_2: 'Daily Active Users',
-  STARTER_ABOUT_TIPS_3: 'Creative Communities',
+  STARTER_ABOUT_TIPS_3: 'Join with Creative Communities',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
@@ -181,21 +181,21 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: 'Why Pixiu?',
   STARTER_FAQ_TEXT_2: 'The reason you choose us',
 
-  STARTER_FAQ_1_QUESTION: 'Open',
+  STARTER_FAQ_1_QUESTION: 'Open & Embracing',
   STARTER_FAQ_1_ANSWER:
-    'Everyone is welcome. No whitelists or hoops to jump through, just create our first or connect wallet without any added complexities. Sign up for starting Pixing!',
+    'Everyone is welcome. No whitelists or hoops to jump through, just create our first or connect wallet without any added complexities. Sign up for starting Pixiu!',
 
-  STARTER_FAQ_2_QUESTION: 'Live',
+  STARTER_FAQ_2_QUESTION: 'Fair & Unobstructed',
   STARTER_FAQ_2_ANSWER:
-    'Everyone is live您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    'Everyone get reward fairly. Gamified and farming-resistant reward mechanisms ensure the right people earn Pixiu points and future token rewards for their contributions.',
 
-  STARTER_FAQ_3_QUESTION: 'Fair',
+  STARTER_FAQ_3_QUESTION: 'Live & Various',
   STARTER_FAQ_3_ANSWER:
-    'Everyone get reward fairly, Gamified and farming-resistant reward mechanisms ensure the right people earn points and future token rewards for their contributions.',
+    'Everyone can showcase their own charm. Utilize diverse methods on the platform to achieve personal brand growth from 0 to 1.',
 
-  STARTER_FAQ_4_QUESTION: 'Pixiu-Eco',
+  STARTER_FAQ_4_QUESTION: 'Wide & Creative',
   STARTER_FAQ_4_ANSWER:
-    'Everyone 先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    'Everyone’s contributing content. The rich plugin mechanisms on the platform ultimately form a complete ecosystem (Pixiu-Eco) , providing a one-stop solution for realizing the value of ideas.',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
