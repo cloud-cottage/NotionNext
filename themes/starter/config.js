@@ -113,8 +113,8 @@ const CONFIG = {
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: '用户反馈',
-  STARTER_TESTIMONIALS_TEXT_1: "What's Appraised",
+  STARTER_TESTIMONIALS_TITLE: 'Feedbacks',
+  STARTER_TESTIMONIALS_TEXT_1: "How We Appraised Ourself?",
   STARTER_TESTIMONIALS_TEXT_2: 'The community members are saying',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
@@ -200,7 +200,7 @@ const CONFIG = {
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
   STARTER_TEAM_TITLE: 'Operation Team',
-  STARTER_TEAM_TEXT_1: 'Who We are',
+  STARTER_TEAM_TEXT_1: 'Who We are?',
   STARTER_TEAM_TEXT_2:
     'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
 
@@ -230,11 +230,11 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: 'Our Blog',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_1: 'What’s New?',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    'Track our latest exciting developments here!',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
@@ -288,48 +288,35 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: 'About',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'Pixiu Milestone', URL: '/milestone' },
+        { TITLE: 'Pixiu Vison', URL: '/vison' }
+      ]
+    },
+    {
+      TITLE: 'Brand',
+      LINK_GROUP: [
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: 'Brand Partners',
+          URL: '/partner'
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: 'Brand Kit',
+          URL: '/brand_kit'
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: 'Legacy Notice',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'Privacy Policy',
+          URL: 'https://docs.pixiu.us/privacy_policy/'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
-        },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
-      ]
-    },
-    {
-      TITLE: 'Notion写作',
-      LINK_GROUP: [
-        {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
-        },
-        {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
-        },
-        {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'Terms of Service',
+          URL: 'https://docs.pixiu.us/terms/'
         }
       ]
     }
@@ -337,14 +324,14 @@ const CONFIG = {
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: 'Hotest',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Privacy Policy',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
+  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '',
+  STARTER_FOOTER_PRIVACY_POLICY_URL: '',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Legacy Notice',
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Copyright © 2024 Pixiu. All rights reserved.',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: 'Terms of Use',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '',
 
   // 404页面的提示语
   STARTER_404_TITLE: '404 ERROR',
@@ -354,7 +341,7 @@ const CONFIG = {
   // 页面底部的行动呼吁模块
   STARTER_CTA_ENABLE: true,
   STARTER_CTA_TITLE: 'What are you waiting for?',
-  STARTER_CTA_TITLE_2: '',
+  STARTER_CTA_TITLE_2: 'Don’t hesitate anymore!',
   STARTER_CTA_DESCRIOTN:
     'Go and experiencing the exciting journey now!',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
