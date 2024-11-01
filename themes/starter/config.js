@@ -291,7 +291,7 @@ const CONFIG = {
       TITLE: 'About',
       LINK_GROUP: [
         { TITLE: 'Pixiu Milestone', URL: '/milestone' },
-        { TITLE: 'Pixiu Vison', URL: '/vison' }
+        { TITLE: 'Pixiu Vision', URL: '/vision' }
       ]
     },
     {
@@ -322,7 +322,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Hotest',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Hotiest',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: '',
   STARTER_FOOTER_PRIVACY_POLICY_URL: '',
