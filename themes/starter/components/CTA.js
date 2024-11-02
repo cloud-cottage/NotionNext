@@ -18,12 +18,10 @@ export const CTA = () => {
             <div className='-mx-4 flex flex-wrap items-stretch'>
               <div className='w-full px-4'>
                 <div className='mx-auto max-w-[570px] text-center'>
-                  <h2 className='mb-2.5 text-3xl font-bold text-white md:text-[38px] md:leading-[1.44]'>
-                    <span>{siteConfig('STARTER_CTA_TITLE')}</span>
-                    <span className='text-3xl font-normal md:text-[40px]'>
-                      {siteConfig('STARTER_CTA_TITLE_2')}
-                    </span>
-                  </h2>
+                  <span>{siteConfig('STARTER_CTA_TITLE')}</span> 
+                  <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-2.5 text-3xl font-bold text-white md:text-[38px] md:leading-[1.44]'}>
+                     {siteConfig('STARTER_CTA_TITLE_2')}
+                  </h2>  
                   <p className='mx-auto mb-6 max-w-[515px] text-base leading-[1.5] text-white'>
                     {siteConfig('STARTER_CTA_DESCRIOTN')}
                   </p>
