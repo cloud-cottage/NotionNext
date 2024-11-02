@@ -64,8 +64,7 @@ const BLOG = {
   // 字体CSS 例如 https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css
   FONT_URL: [
     'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
-    'https://fonts.googleapis.com/css2?family=EB+Garamond',
-    'https://fonts.googleapis.com/css2?family=Roboto+SC:wght@300&display=swap'
+    'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'
   ],
   FONT_SANS: [
     '"Roboto"',
