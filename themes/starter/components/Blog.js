@@ -20,7 +20,7 @@ export const Blog = ({ posts }) => {
                 <span className='mb-2 block text-lg font-semibold text-primary'>
                   {siteConfig('STARTER_BLOG_TITLE')}
                 </span>
-                <h2 className='mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl md:text-[40px] md:leading-[1.2]'>
+                <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-4 text-3xl font-bold text-dark dark:text-white sm:text-4xl md:text-[40px] md:leading-[1.2]`>
                   {siteConfig('STARTER_BLOG_TEXT_1')}
                 </h2>
                 <p
