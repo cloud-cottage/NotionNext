@@ -73,7 +73,7 @@ export const Testimonials = () => {
                 <span className='mb-2 block text-lg font-semibold text-primary'>
                   {siteConfig('STARTER_TESTIMONIALS_TITLE')}
                 </span>
-                <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-3 text-3xl font-bold leading-[1.2] text-dark dark:text-white sm:text-4xl md:text-[40px]`}
+                <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-3 text-3xl font-bold leading-[1.2] text-dark dark:text-white sm:text-4xl md:text-[40px]`}>
                   {siteConfig('STARTER_TESTIMONIALS_TEXT_1')}
                 </h2>
                 <p className='text-base text-body-color dark:text-dark-6'>
