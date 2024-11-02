@@ -70,6 +70,7 @@ const BLOG = {
 //    'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap'
   ],
   FONT_SANS: [
+    '"Roboto"',
     '"LXGW WenKai"',
     '"PingFang SC"',
     '-apple-system',
