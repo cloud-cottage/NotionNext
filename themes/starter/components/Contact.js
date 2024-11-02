@@ -21,7 +21,7 @@ export const Contact = () => {
                   <span className='mb-6 block text-base font-medium text-dark dark:text-white'>
                     {siteConfig('STARTER_CONTACT_TITLE')}
                   </span>
-                  <h2 className='max-w-[260px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white'>
+                  <h2 className={`${siteConfig('FONT_STYLE_TITLE')} max-w-[260px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white `}>
                     {siteConfig('STARTER_CONTACT_TEXT')}
                   </h2>
                 </div>
