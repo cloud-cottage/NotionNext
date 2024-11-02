@@ -40,7 +40,7 @@ const CONFIG = {
     'A future to connect', // 特性
 
   STARTER_FEATURE_1_TITLE_1: 'Airdrop', // 特性1
-  STARTER_FEATURE_1_TEXT_1: 'Pixiu have implemented a fair way to distribute community rewards, which motivates ordinary users to participate in community building.', // 特性1
+  STARTER_FEATURE_1_TEXT_1: "Pixiu have implemented a fair way to distribute community rewards, which motivates ordinary users to participate in community building.", // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: 'Details', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '/airdrop', // 特性1
 
@@ -121,7 +121,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'The concept of a social app that merges Web2 and Web3 elements is very exciting. The 'live space' feature stands out as a potential game-changer for real-time interactions. From a design perspective, I look forward to seeing how the user interface will accommodate both traditional and blockchain functionalities. NFT tokens could offer unique personalization options for users, enhancing the overall experience. However, my main concern lies with usability—ensuring that new users can easily navigate the platform without feeling overwhelmed by the blockchain aspects. A smooth onboarding process will be essential.',
+        "The concept of a social app that merges Web2 and Web3 elements is very exciting. The 'live space' feature stands out as a potential game-changer for real-time interactions. From a design perspective, I look forward to seeing how the user interface will accommodate both traditional and blockchain functionalities. NFT tokens could offer unique personalization options for users, enhancing the overall experience. However, my main concern lies with usability—ensuring that new users can easily navigate the platform without feeling overwhelmed by the blockchain aspects. A smooth onboarding process will be essential.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Sophia',
@@ -130,7 +130,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'With the increasing complexity of online interactions, a Web2/Web3 social app like this could provide much-needed versatility. The 'live space' feature is innovative, but I am concerned about the security implications, especially with NFT and token features. Protecting user data and assets should be a paramount focus, particularly given the rising number of cyber threats in the crypto space. I hope the development team implements robust security protocols to instill user trust. The airdrop rewards could be an effective strategy for attracting users, provided they are executed transparently.',
+        "With the increasing complexity of online interactions, a Web2/Web3 social app like this could provide much-needed versatility. The 'live space' feature is innovative, but I am concerned about the security implications, especially with NFT and token features. Protecting user data and assets should be a paramount focus, particularly given the rising number of cyber threats in the crypto space. I hope the development team implements robust security protocols to instill user trust. The airdrop rewards could be an effective strategy for attracting users, provided they are executed transparently.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'James',
@@ -139,7 +139,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'This social application has the potential to redefine online interactions. The 'live space' multimedia feature could enable real-time communication and creativity among users. I am particularly interested in how NFT integration will work within this context—offering digital ownership can enhance user loyalty. The airdrop rewards are a great way to create buzz and attract initial users. However, it will be important for the team to develop a strong marketing strategy to educate users about the benefits of transitioning to Web3. User experience must remain a top priority.',
+        "This social application has the potential to redefine online interactions. The 'live space' multimedia feature could enable real-time communication and creativity among users. I am particularly interested in how NFT integration will work within this context—offering digital ownership can enhance user loyalty. The airdrop rewards are a great way to create buzz and attract initial users. However, it will be important for the team to develop a strong marketing strategy to educate users about the benefits of transitioning to Web3. User experience must remain a top priority.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LalalaMM',
@@ -148,7 +148,7 @@ const CONFIG = {
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        'PIXIU offers a bright future, with significant benefits for users who invest now. One of the key advantages is that ad revenue generated on the platform is used to buy back the token, creating a continuous demand cycle.',
+        "PIXIU offers a bright future, with significant benefits for users who invest now. One of the key advantages is that ad revenue generated on the platform is used to buy back the token, creating a continuous demand cycle.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Disheng',
