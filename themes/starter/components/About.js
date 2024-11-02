@@ -18,7 +18,7 @@ export const About = () => {
               {/* 左侧的文字说明板块 */}
               <div className='w-full px-4 lg:w-1/2'>
                 <div className='mb-12 max-w-[540px] lg:mb-0'>
-                  <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]`}
+                  <h2 className={`${siteConfig('FONT_STYLE_TITLE')} mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]`}>
                     {siteConfig('STARTER_ABOUT_TITLE')}
                   </h2>
                   <p
