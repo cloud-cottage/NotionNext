@@ -310,11 +310,11 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'Privacy Policy',
-          URL: 'https://docs.pixiu.us/privacy_policy/'
+          URL: 'https://docs.pixiu.us/legacy-notice/privacy-policy/'
         },
         {
           TITLE: 'Terms of Service',
-          URL: 'https://docs.pixiu.us/terms/'
+          URL: 'https://docs.pixiu.us/legacy-notice/'
         }
       ]
     }
