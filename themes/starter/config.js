@@ -121,12 +121,12 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        "With the increasing complexity of online interactions, a Web2/Web3 social app like Pixiu could provide much-needed versatility.",
+        "With the increasing complexity of online interactions, a Web3 social app like Pixiu could provide much-needed versatility.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'James',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Cybersecurity Analyst',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -135,7 +135,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Sophia',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Famous UX/UI Designer',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -144,7 +144,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LalalaMM',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Digital Marketing Specialist',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -153,7 +153,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Disheng',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Invester',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -162,7 +162,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AJahhhh',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Tech Investor',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: "As a blockchain developer, I'm excited about the potential of a social application that seamlessly bridges Web2 and Web3. The 'live space' multimedia feature could revolutionize how users interact, offering a rich, immersive experience. The integration of NFT tokens is also promising, as it could enhance user engagement through unique digital assets. I am particularly interested in the airdrop rewards system, which could incentivize early adopters and promote community growth. However, I would like to see more clarity on the security measures in place to protect users’ assets and data.",
@@ -170,7 +170,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'NoNoChi',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Blockchain Developer',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://pixiu.us/appreciation'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
