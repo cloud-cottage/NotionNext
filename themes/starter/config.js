@@ -123,7 +123,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         "With the increasing complexity of online interactions, a Web2/Web3 social app like Pixiu could provide much-needed versatility.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
+        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'James',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Cybersecurity Analyst',
       STARTER_TESTIMONIALS_ITEM_URL: '/appreciation'
@@ -132,7 +132,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         "The concept of a social app that merges Web2 and Web3 elements is very exciting. The 'live space' feature stands out as a potential game-changer for real-time interactions. From a design perspective, I look forward to seeing how the user interface will accommodate both traditional and blockchain functionalities. However, my main concern lies with usability—ensuring that new users can easily navigate the platform without feeling overwhelmed by the blockchain aspects. A smooth onboarding process will be essential.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
+        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Sophia',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Famous UX/UI Designer',
       STARTER_TESTIMONIALS_ITEM_URL: '/appreciation'
