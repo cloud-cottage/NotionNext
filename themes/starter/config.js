@@ -121,7 +121,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        "The concept of a social app that merges Web2 and Web3 elements is very exciting. The 'live space' feature stands out as a potential game-changer for real-time interactions. From a design perspective, I look forward to seeing how the user interface will accommodate both traditional and blockchain functionalities. NFT tokens could offer unique personalization options for users, enhancing the overall experience. However, my main concern lies with usability—ensuring that new users can easily navigate the platform without feeling overwhelmed by the blockchain aspects. A smooth onboarding process will be essential.",
+        "The concept of a social app that merges Web2 and Web3 elements is very exciting. The 'live space' feature stands out as a potential game-changer for real-time interactions.",
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Sophia',
